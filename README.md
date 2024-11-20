@@ -41,4 +41,22 @@ Para más detalles sobre la convocatoria del concurso y las condiciones de parti
 
 Recuerda que es imprescindible leer las bases para conocer todos los detalles sobre el concurso y cómo participar. ¡No te olvides de descargarlas!
 
+## Vídeo de Funcionamiento de la Web
+
+Vídeo que muestra cómo funciona la página web recreada.
+
+**[Enlace al vídeo](#)** (pendiente de subida)
+
+## Cómo exportar la conversación con ChatGPT
+
+Para poder enviar la conversación con ChatGPT que has utilizado para crear la página web, sigue estos pasos:
+
+1. **Accede a tu conversación en ChatGPT**.
+2. **Haz clic en el icono de tres puntos** (generalmente ubicado en la parte superior derecha de la ventana de la conversación).
+3. **Selecciona "Exportar chat"** o la opción equivalente según la interfaz.
+4. **Elige el formato**: Puedes exportar la conversación en formato PDF o en otro formato que permita incluir el texto completo de la interacción.
+5. **Descarga el archivo** y adjúntalo al envío de tu participación en el concurso.
+
+Recuerda que deberás incluir este archivo junto con los otros documentos solicitados en las bases del concurso.
+
 ¡Diviértete explorando el poder del prompting y mejora tus resultados en el concurso!🔁🤖🚀
