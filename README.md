@@ -41,4 +41,4 @@ Para más detalles sobre la convocatoria del concurso y las condiciones de parti
 
 Recuerda que es imprescindible leer las bases para conocer todos los detalles sobre el concurso y cómo participar. ¡No te olvides de descargarlas!
 
-¡Diviértete explorando el poder del prompting y mejora tus resultados en el concurso!
+¡Diviértete explorando el poder del prompting y mejora tus resultados en el concurso!🔁🤖🚀
