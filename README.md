@@ -45,7 +45,7 @@ Recuerda que es imprescindible leer las bases para conocer todos los detalles so
 
 Vídeo que muestra cómo funciona la página web recreada.
 
-**[Enlace al vídeo](#)** (pendiente de subida)
+[Ver video](./DeportesWeb.mov)
 
 ## Cómo exportar la conversación con ChatGPT
 
