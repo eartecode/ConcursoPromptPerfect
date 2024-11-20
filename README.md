@@ -59,4 +59,4 @@ Para poder enviar la conversación con ChatGPT que has utilizado para crear la p
 
 Recuerda que deberás incluir este archivo junto con los otros documentos solicitados en las bases del concurso.
 
-¡Diviértete explorando el poder del prompting y mejora tus resultados en el concurso!🔁🤖🚀
+**¡Diviértete explorando el poder del prompting y mejora tus resultados en el concurso!🔁🤖🚀**
