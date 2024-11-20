@@ -1,0 +1,88 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex; /* Usar flexbox para el menú */
+    justify-content: center; /* Centrar el menú */
+}
+
+nav ul li {
+    margin: 0 15px;
+    position: relative; /* Para crear un efecto de separación */
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    border: 2px solid transparent; /* Agregar un borde */
+    border-radius: 5px; /* Bordes redondeados */
+}
+
+nav ul li a:hover {
+    border-color: white; /* Cambiar el color del borde al pasar el ratón */
+    background: rgba(255, 255, 255, 0.2); /* Fondo semi-transparente al pasar el ratón */
+}
+
+main {
+    padding: 20px;
+}
+
+.sport-section {
+    display: flex;
+    margin: 10px 0;
+    background: white;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.image-container {
+    flex: 1;
+    display: flex; /* Habilitar flexbox en el contenedor de imagen */
+    justify-content: center; /* Centrar horizontalmente */
+    align-items: center; /* Centrar verticalmente */
+    padding: 10px;
+}
+
+.preview-image {
+    width: 300px; /* Ancho fijo para todas las imágenes */
+    height: 200px; /* Alto fijo para todas las imágenes */
+    object-fit: cover; /* Recorta la imagen si es necesario para mantener el tamaño */
+    border-radius: 5px;
+}
+
+.news-container {
+    flex: 2;
+    padding: 10px;
+}
+
+article {
+    margin-top: 15px;
+}
+
+h3 {
+    margin: 10px 0 5px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background: #333;
+    color: white;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
